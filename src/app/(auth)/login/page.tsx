@@ -10,7 +10,7 @@ const page = React.memo((props: pageProps) => {
   const { className } = props;
   return (
     <div className={clsx("", className)}>
-      <Button variant={"primary"}>Привет всем</Button>
+      <Button variant={"secondary"}>Привет всем</Button>
     </div>
   );
 });

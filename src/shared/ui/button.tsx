@@ -3,12 +3,12 @@ import { cva, type VariantProps } from "class-variance-authority";
 import React from "react";
 
 const buttonVariants = cva(
-  "rounded-[10px] inline-flex items-center justify-center whitespace-nowrap transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50",
+  "rounded-[10px] font-medium inline-flex items-center justify-center whitespace-nowrap transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50",
   {
     variants: {
       variant: {
         primary: "bg-Azure-A100 text-white",
-        secondary: "",
+        secondary: "bg-steel-gray-60 text-Azure-A100",
       },
       size: {
         small: "px-[16px] py-[3px]",
