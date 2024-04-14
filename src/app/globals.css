@@ -1,0 +1,78 @@
+:root {
+  /* colors */
+  --blue-400: #5181b8;
+  --blue-420: #4a76a8;
+  --blue-600: #2a5885;
+  --blue-640: #224b7a;
+  --blue-800: #1d3a5c;
+
+  --gray-200: #cccccc;
+  --gray-300: #b2b2b2;
+  --gray-400: #939393;
+  --gray-500: #828282;
+  --gray-600: #656565;
+  --gray-700: #555555;
+  --gray-800: #333333;
+  --gray-900: #222222;
+  --gray-960: #0a0a0a;
+  --gray-800-alpha72: rgba(51, 51, 51, 0.72);
+  --gray-800-alpha88: rgba(51, 51, 51, 0.88);
+  --gray-900-alpha16: rgba(51, 51, 51, 0.16);
+
+  --steel-gray-10: #fafbfc;
+  --steel-gray-20: #f7f8fa;
+  --steel-gray-40: #f2f3f5;
+  --steel-gray-60: #edeef0;
+  --steel-gray-80: #e7e8ec;
+  --steel-gray-100: #dce1e6;
+  --steel-gray-120: #d3d9de;
+  --steel-gray-140: #c5d0db;
+  --steel-gray-200: #aeb7c2;
+  --steel-gray-300: #99a2ad;
+  --steel-gray-400: #818c99;
+  --steel-gray-500: #6f7985;
+  --steel-gray-540: #626d7a;
+  --steel-gray-A540: #55677d;
+  --steel-gray-600: #4e5966;
+
+  --light-blue-40: #e5ebf1;
+  --light-blue-80: #dfe6ed;
+  --light-blue-100: #dae2ea;
+  --light-blue-300: #9eb4c8;
+  --light-blue-A300: #8fadc8;
+  --light-blue-400: #7996b2;
+  --light-blue-500: #577ca1;
+  --light-blue-700: #45688e;
+
+  --blue_bright: #5c9ce6;
+  --turquoise: #63b9ba;
+  --green: #4bb34b;
+  --green_dark: #43a843;
+  --green_nice: #3dcc4b;
+  --red: #e64646;
+  --red_nice: #ff3347;
+  --orange_fire: #f05c44;
+  --orange_prominent: #ff724c;
+  --orange: #ffa000;
+  --yellow: #ffc107;
+  --green_light: #def0d3;
+  --yellow_light: #faefd2;
+  --red_light: #ffd6cc;
+  --green-alpha16: #4bb34b;
+  --red-alpha16: #e64646;
+  --Azure-A100: #2787f5;
+  --sky-200: #70c1ff;
+  --sky-100: #99d3ff;
+  --sky-80: #b2deff;
+
+  --black-: #000000;
+  --black-alpha88: rgba(0, 0, 0, 0.88);
+  --black-alpha72: rgba(0, 0, 0, 0.72);
+  --black-alpha56: rgba(0, 0, 0, 0.56);
+  --black-alpha40: rgba(0, 0, 0, 0.4);
+  --black-alpha24: rgba(0, 0, 0, 0.24);
+  --black-alpha16: rgba(0, 0, 0, 0.16);
+  --black-alpha12: rgba(0, 0, 0, 0.12);
+  --black-alpha8: rgba(0, 0, 0, 0.08);
+  --transparent-black: rgba(0, 0, 0, 0);
+}
